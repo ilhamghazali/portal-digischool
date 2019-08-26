@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Standard Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/portal-digischool
+Data file = C:\xampp\htdocs\portal-digischool/wp-content/themes/kidschool/inc/demo-content/default/kidschool.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+kidschool_opt -> C:\xampp\htdocs\portal-digischool/wp-content/themes/kidschool/inc/demo-content/default/kidschool.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing Redux settings---
+Redux settings import for: kidschool_opt finished successfully!
+
+---pt-ocdi/after_import---
+

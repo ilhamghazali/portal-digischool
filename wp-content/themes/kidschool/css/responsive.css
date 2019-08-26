@@ -1,0 +1,380 @@
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.slide-content h1, .home-banner-content h1 {
+  font-size: 60px;
+  line-height: 60px;
+}
+
+.slide-content h3 {
+  font-size: 35px;
+}
+
+.slide-content h2 {
+  font-size: 42px;
+}
+.sticky .primary-nav-wrap ul li a {
+  padding: 28px 12px;
+}
+.primary-nav-wrap ul li a {
+    font-size: 14px;
+    padding: 30px 13px;
+}
+.primary-nav-wrap ul li:hover::before, 
+.primary-nav-wrap ul li:hover::after {
+    opacity: 0;
+}
+
+/*azad css*/
+.centered_logo{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+}
+
+
+/* Tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+.site-logo {
+
+  padding: 15px 0;
+
+}
+
+.slide-content h1, .home-banner-content h1 {
+
+  font-size: 50px;
+
+  line-height: 55px;
+
+}
+
+.slide-content h3 {
+
+  font-size: 36px;
+
+  line-height: 40px;
+
+}
+
+.slide-content h2 {
+
+  font-size: 36px;;
+
+  line-height: 55px;
+
+}
+
+.our-event-area {
+
+  padding: 0 50px;
+
+}
+
+.class-content ul li {
+
+  margin: 0 15px;
+
+}
+
+.class-img img {
+
+  width: 100%;
+
+}
+
+.event-img img {
+
+    width: 100%;
+
+}
+
+.event-img {
+
+    margin: 15px 0;
+
+}
+
+.single-event.mb-30 {
+
+    margin-bottom: 0;
+
+}
+
+.single-event-owl {
+
+    margin: 15px 0;
+
+}
+
+.header_style_3 .header-menu-wrap.logo-left{
+  display: block;
+}
+.header_style_3 .container-fluid{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.header_style_3 .desktop-menu{
+  display: none;
+}
+
+}
+ 
+
+/* small mobile :320px. */
+
+@media (max-width: 767px) {
+
+
+.container {width:300px}
+
+.site-logo {
+
+  padding: 15px 0;
+
+}
+.comment-list .children {
+  margin-left: 10px;
+}
+.header-info.text-right {
+
+  text-align: center;
+
+  display: block;
+
+}    
+
+.header-info {
+
+  display: none;
+
+}    
+.breadcrumbs h2.page-title {
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 26px;
+}
+.breadcrumbs-area-default .breadcrumbs ul li, .breadcrumbs ul li {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.breadcrumbs-area {
+  padding: 80px 0;
+}
+.pt-80 {
+  padding-top: 60px;
+}
+.logged-in .header-area.sticky {
+
+  top: 0;
+
+}    
+
+ .slide-content h1, .home-banner-content h1 {
+
+  font-size: 36px;
+
+   line-height: 45px;
+
+}   
+
+ .slide-content h3 {
+
+  font-size: 32px;
+
+  line-height: 40px;
+
+ }  
+.slide-content h2 {
+
+  font-size: 28px;
+
+  line-height: 43px;
+
+}    
+
+ .slider-container {
+
+  height: 450px;
+
+}   
+
+.portfolio-img img {
+
+    width: 100%;
+
+}
+
+.portfolio-img {
+
+    margin-bottom: 30px;
+
+}
+
+ .section-title h2 {
+
+  font-size: 26px !important;
+
+}  
+
+.section-title h2::after {
+
+  bottom: -30px;
+
+}    
+
+.our-event-area {
+
+  padding: 0 35px;
+
+}
+
+.class-content {
+
+  padding: 20px 20px 18px;
+
+}
+
+.class-content ul li {
+
+  margin: 0 15px;
+
+}
+
+.grid .grid-item:nth-child(2), .grid .grid-item:nth-child(3) {
+
+  padding-bottom: 0;
+
+}
+
+.footer-top-area {
+
+  padding-bottom: 40px;
+
+}
+
+.single-footer {
+
+  margin-bottom: 0 !important;
+
+}
+
+.site-logo img {
+
+  width: 160px;
+
+}
+
+.single-event {
+
+  margin-left: 0 !important;
+
+  margin-right: 0 !important;
+
+}  
+
+.class-img img {
+
+  width: 100%;
+
+}
+
+.event-img img {
+
+    width: 100%;
+
+}
+
+.event-img {
+
+    margin: 15px 0;
+
+}
+
+
+
+.single-event-owl {
+
+    margin: 15px 0;
+
+}    
+.meta-info span {
+  font-size: 13px;
+  margin-left: 5px;
+}
+.section-title {
+  padding: 0;
+}
+
+  .comment-list .children {
+      margin-left: 10px !important;
+      padding-left: 0;
+  }
+
+
+  .footer-bottom .col-sm-6:first-child .copyright-text{
+    float: none;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .footer-bottom .col-sm-6:last-child .footer-social{
+    float: none;
+    text-align: center;
+  }
+  .single .event-content p {
+    margin-left: 0;
+  }
+  
+  .contact-form.contact_us {
+  margin-top: 50px;
+}
+
+
+/*azad css*/
+.header_style_3 .header-menu-wrap.logo-left{
+  display: block;
+}
+.header_style_3 .container-fluid{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.header_style_3 .desktop-menu{
+  display: none;
+}
+  
+
+}
+
+
+/* Large Mobile :480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.container {width:450px}
+
+.header-info {
+
+  margin-bottom: 10px;
+
+  text-align: center;
+
+  display: block;
+
+}
+.project-area {
+
+    padding: 0 50px;
+
+}
+ .slider-container {
+
+  height: 500px;
+
+  }   
+}

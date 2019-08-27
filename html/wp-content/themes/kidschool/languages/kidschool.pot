@@ -1,0 +1,1980 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kidschool\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-07 06:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+#: inc/global-functions.php:233 inc/footer/copyright.php:32
+msgid " All Rights Reserved."
+msgstr ""
+
+#: template-parts/content-single.php:50
+msgid "% Comments"
+msgstr ""
+
+#: inc/comment-form.php:87
+msgid "(Edit)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: template-parts/blog-layout.php:47
+msgid "0"
+msgstr ""
+
+#: template-parts/blog-layout.php:47
+msgid "1"
+msgstr ""
+
+#: template-parts/content-single.php:50
+msgid "1 Comment"
+msgstr ""
+
+#: 404.php:30
+msgid "404"
+msgstr ""
+
+#: inc/admin/option-framework.php:3457
+msgid "404 Page"
+msgstr ""
+
+#: inc/admin/option-framework.php:3473
+msgid "404 Page Background"
+msgstr ""
+
+#: inc/admin/option-framework.php:3613 inc/admin/option-framework.php:3649
+msgid "404 page font."
+msgstr ""
+
+#: inc/admin/option-framework.php:3665
+msgid "404 Page Sub Title Font"
+msgstr ""
+
+#: inc/admin/option-framework.php:3685
+msgid "404 page sub title font."
+msgstr ""
+
+#: inc/admin/option-framework.php:3591 inc/admin/option-framework.php:3629
+msgid "404 Page Title Font"
+msgstr ""
+
+#: inc/admin/option-framework.php:3491
+msgid "404 Style"
+msgstr ""
+
+#: inc/metabox/metabox.php:63
+msgid "Add Another Item"
+msgstr ""
+
+#: inc/widget-register.php:14 inc/widget-register.php:37
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/metabox/metabox.php:12 inc/metabox/metabox.php:51
+msgid "Additional Info"
+msgstr ""
+
+#: inc/demo-import.php:17 inc/demo-import.php:32
+msgid "After you import this demo, you will have setup all content."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:198
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/includefile/breadcrumb.php:47
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/includefile/breadcrumb.php:49
+#, php-format
+msgid "Archive for \"%s\""
+msgstr ""
+
+#: inc/includefile/breadcrumb.php:55
+#, php-format
+msgid "Articles Posted by \"%s\""
+msgstr ""
+
+#: inc/admin/option-framework.php:1932
+msgid "Background Color"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:188
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:178
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:183
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/metabox/metabox.php:139
+msgid "BG Overlay Color"
+msgstr ""
+
+#: inc/global-functions.php:17 inc/admin/option-framework.php:2587
+msgid "Blog"
+msgstr ""
+
+#: template-parts/blog-layout.php:31
+msgid "Blog Image"
+msgstr ""
+
+#: inc/admin/option-framework.php:2663
+msgid "Blog Left sidebar"
+msgstr ""
+
+#: inc/admin/option-framework.php:2679
+msgid "Blog Page Padding."
+msgstr ""
+
+#: inc/admin/option-framework.php:2755
+msgid "Blog Page Subtitle"
+msgstr ""
+
+#: inc/admin/option-framework.php:2725 inc/admin/option-framework.php:2741
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/admin/option-framework.php:2807
+msgid "Blog Page Title Banner"
+msgstr ""
+
+#: inc/admin/option-framework.php:2665
+msgid "Blog Right sidebar"
+msgstr ""
+
+#: inc/admin/option-framework.php:2821
+msgid "Blog Single"
+msgstr ""
+
+#: inc/admin/option-framework.php:2861
+msgid "Blog Single Page Padding."
+msgstr ""
+
+#: inc/admin/option-framework.php:2649
+msgid "Blog Style"
+msgstr ""
+
+#: inc/admin/option-framework.php:2661
+msgid "Blog three colum"
+msgstr ""
+
+#: inc/admin/option-framework.php:2769
+msgid "Blog Title Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:2781
+msgid "Blog Title Position"
+msgstr ""
+
+#: inc/admin/option-framework.php:2659
+msgid "Blog two column"
+msgstr ""
+
+#: functions.php:102
+msgid "Blue Gray"
+msgstr ""
+
+#: inc/admin/option-framework.php:537
+msgid "Body Background Color."
+msgstr ""
+
+#: inc/admin/option-framework.php:2285
+msgid "Body Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:481
+msgid "Box Layout Background"
+msgstr ""
+
+#: inc/admin/option-framework.php:435
+msgid "Boxed"
+msgstr ""
+
+#: inc/admin/option-framework.php:1997
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/metabox/metabox.php:121 inc/metabox/metabox.php:123
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:2069
+msgid "Breadcrumb Font Settings"
+msgstr ""
+
+#: inc/admin/option-framework.php:2037
+msgid "Breadcrumb on Mobile Devices"
+msgstr ""
+
+#: inc/admin/option-framework.php:2053
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/admin/option-framework.php:2133
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:2147
+msgid "Breadcrumb Text Hover Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:2119
+msgid "Breadcrumb Text Size"
+msgstr ""
+
+#: inc/admin/option-framework.php:2021
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/metabox/metabox.php:189
+msgid "Breadcrumbs Bottom Padding"
+msgstr ""
+
+#: inc/metabox/metabox.php:141
+msgid "Breadcrumbs Overlay Color"
+msgstr ""
+
+#: inc/metabox/metabox.php:149
+msgid "Breadcrumbs Overlay Opacity ( ex: .0 - 1)"
+msgstr ""
+
+#: inc/metabox/metabox.php:154
+msgid "Breadcrumbs Text Position"
+msgstr ""
+
+#: inc/metabox/metabox.php:156
+msgid "Breadcrumbs text position"
+msgstr ""
+
+#: inc/metabox/metabox.php:170
+msgid "Breadcrumbs title color"
+msgstr ""
+
+#: inc/metabox/metabox.php:177
+msgid "Breadcrumbs title font size"
+msgstr ""
+
+#: inc/metabox/metabox.php:182
+msgid "Breadcrumbs Top Padding"
+msgstr ""
+
+#: functions.php:107
+msgid "Bright Blue"
+msgstr ""
+
+#: functions.php:132
+msgid "Bright Red"
+msgstr ""
+
+#: inc/admin/option-framework.php:3579
+msgid "Button Text"
+msgstr ""
+
+#: template-parts/content-single.php:48
+msgid "By "
+msgstr ""
+
+#: inc/admin/option-framework.php:1632
+msgid ""
+"By enabling the logo you will be able to set a logo in the header and by "
+"disabling the logo you will be able to set site title in the header."
+msgstr ""
+
+#: inc/admin/option-framework.php:667 inc/admin/option-framework.php:2789
+msgid "Center"
+msgstr ""
+
+#: inc/admin/option-framework.php:1828
+msgid "center"
+msgstr ""
+
+#: inc/admin/option-framework.php:673
+msgid "Center Top"
+msgstr ""
+
+#: inc/admin/option-framework.php:3221
+msgid "Choose footer copyright style"
+msgstr ""
+
+#: inc/admin/option-framework.php:2839
+msgid "Choose Single Blog Style"
+msgstr ""
+
+#: inc/admin/option-framework.php:2651
+msgid "Choose your blog style"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:70
+msgid "CMB2"
+msgstr ""
+
+#: inc/comment-form.php:13 inc/comment-form.php:43
+msgid "Comment"
+msgstr ""
+
+#: comments.php:32 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: template-parts/blog-layout.php:47
+msgid "Comment off"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/content-single.php:50
+msgid "Comments off"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:75
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/admin/option-framework.php:764 inc/admin/option-framework.php:884
+msgid "Contact Info"
+msgstr ""
+
+#: inc/admin/option-framework.php:766 inc/admin/option-framework.php:886
+msgid "Content"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content-single.php:34
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/admin/option-framework.php:3359
+msgid "Control the background color of the copyright area(default: #008c99 )."
+msgstr ""
+
+#: inc/admin/option-framework.php:2967
+msgid "Control the background color of the footer area(default: #008c99)."
+msgstr ""
+
+#: inc/admin/option-framework.php:2771
+msgid "Controls blog title color."
+msgstr ""
+
+#: inc/admin/option-framework.php:2135
+msgid "Controls breadcrumb text color."
+msgstr ""
+
+#: inc/admin/option-framework.php:2149
+msgid "Controls breadcrumb text hover color."
+msgstr ""
+
+#: inc/admin/option-framework.php:1138
+msgid "Controls header Top Bar padding."
+msgstr ""
+
+#: inc/admin/option-framework.php:1598
+msgid ""
+"Controls in which screen size the mobile menu will be displayed( ex. 991px )"
+msgstr ""
+
+#: inc/admin/option-framework.php:3735
+msgid "Controls scroll to top button background color"
+msgstr ""
+
+#: inc/admin/option-framework.php:539
+msgid ""
+"Controls the  background color of the body which is everything below header "
+"and above footer."
+msgstr ""
+
+#: inc/admin/option-framework.php:3493
+msgid "Controls the 404 title or image."
+msgstr ""
+
+#: inc/admin/option-framework.php:3749
+msgid ""
+"Controls the background color of pagination when it is hovered over and "
+"active"
+msgstr ""
+
+#: inc/admin/option-framework.php:1066
+msgid ""
+"Controls the background color of the header top bar area( default #008c99 )."
+msgstr ""
+
+#: inc/admin/option-framework.php:1934
+msgid "Controls the background color of the page title area."
+msgstr ""
+
+#: inc/admin/option-framework.php:1402
+msgid "Controls the background color of the submenu"
+msgstr ""
+
+#: inc/admin/option-framework.php:483
+msgid "Controls the background color when the site is in box layout."
+msgstr ""
+
+#: inc/admin/option-framework.php:3475
+msgid "Controls the background of 404 page."
+msgstr ""
+
+#: inc/admin/option-framework.php:2323
+msgid "Controls the color of all links."
+msgstr ""
+
+#: inc/admin/option-framework.php:1086
+msgid "Controls the color of the top bar text."
+msgstr ""
+
+#: inc/admin/option-framework.php:756 inc/admin/option-framework.php:874
+msgid "Controls the content that displays in the top left section."
+msgstr ""
+
+#: inc/admin/option-framework.php:2629
+msgid "Controls the excerpt length on blog page"
+msgstr ""
+
+#: inc/admin/option-framework.php:1804
+msgid "Controls the font settings of page title"
+msgstr ""
+
+#: inc/admin/option-framework.php:2093
+msgid "Controls the font settings of the breadcrumb."
+msgstr ""
+
+#: inc/admin/option-framework.php:3143
+msgid "Controls the font settings of the footer body"
+msgstr ""
+
+#: inc/admin/option-framework.php:3407
+msgid "Controls the font settings of the footer copyright text"
+msgstr ""
+
+#: inc/admin/option-framework.php:1232
+msgid "Controls the font settings of the menu text"
+msgstr ""
+
+#: inc/admin/option-framework.php:1710
+msgid "Controls the font settings of the site title"
+msgstr ""
+
+#: inc/admin/option-framework.php:1364
+msgid "Controls the font settings of the submenu text"
+msgstr ""
+
+#: inc/admin/option-framework.php:3113
+msgid "Controls the font settings of the widget title"
+msgstr ""
+
+#: inc/admin/option-framework.php:3163
+msgid "Controls the footer link color."
+msgstr ""
+
+#: inc/admin/option-framework.php:3177
+msgid "Controls the footer link hover color ."
+msgstr ""
+
+#: inc/admin/option-framework.php:1556
+msgid ""
+"Controls the header background color when the header is sticky( default "
+"#ffffff )."
+msgstr ""
+
+#: inc/admin/option-framework.php:592
+msgid "Controls the header background color( default #f1f1f1 )."
+msgstr ""
+
+#: inc/admin/option-framework.php:608
+msgid "Controls the header layout."
+msgstr ""
+
+#: inc/admin/option-framework.php:1528
+msgid "Controls the header menu text color when the header is sticky"
+msgstr ""
+
+#: inc/admin/option-framework.php:1894
+msgid ""
+"Controls the height of the page title area on mobile device. Enter value "
+"excluding any valid CSS unit, ex: 80"
+msgstr ""
+
+#: inc/admin/option-framework.php:1860
+msgid ""
+"Controls the height of the page title area. Enter value excluding any valid "
+"CSS unit, ex: 100"
+msgstr ""
+
+#: inc/admin/option-framework.php:1490
+msgid "Controls the height of the submenu item"
+msgstr ""
+
+#: inc/admin/option-framework.php:1426
+msgid "Controls the hover background color of the submenu( default #333 )."
+msgstr ""
+
+#: inc/admin/option-framework.php:2337
+msgid "Controls the hover color of all links."
+msgstr ""
+
+#: inc/admin/option-framework.php:3427
+msgid "Controls the link color of the copyright text"
+msgstr ""
+
+#: inc/admin/option-framework.php:1104
+msgid "Controls the link color of the top bar."
+msgstr ""
+
+#: inc/admin/option-framework.php:3441
+msgid "Controls the link hover color of the copyright text(default: #ff7f00)."
+msgstr ""
+
+#: inc/admin/option-framework.php:1122
+msgid "Controls the link hover color of the top bar."
+msgstr ""
+
+#: inc/admin/option-framework.php:1252
+msgid "Controls the menu hover color of the menu text(default: #333)."
+msgstr ""
+
+#: inc/admin/option-framework.php:1308
+msgid "Controls the menu item spacing of the main menu"
+msgstr ""
+
+#: inc/admin/option-framework.php:2935
+msgid "Controls the number of columns in the footer."
+msgstr ""
+
+#: inc/admin/option-framework.php:1969 inc/admin/option-framework.php:2999
+msgid "Controls the opacity of the overlay color"
+msgstr ""
+
+#: inc/admin/option-framework.php:453 inc/admin/option-framework.php:467
+msgid ""
+"Controls the overall site width. Enter value excluding any valid CSS unit, "
+"ex: 1170"
+msgstr ""
+
+#: inc/admin/option-framework.php:2983
+msgid "Controls the overlay color of the footer area."
+msgstr ""
+
+#: inc/admin/option-framework.php:1952
+msgid "Controls the overlay color of the page title area."
+msgstr ""
+
+#: inc/admin/option-framework.php:2783
+msgid "Controls the position of the blog title"
+msgstr ""
+
+#: inc/admin/option-framework.php:661
+msgid "Controls the position of the logo."
+msgstr ""
+
+#: inc/admin/option-framework.php:1448
+msgid "Controls the separator color of the submenu"
+msgstr ""
+
+#: inc/admin/option-framework.php:429
+msgid "Controls the site layout."
+msgstr ""
+
+#: inc/admin/option-framework.php:2121
+msgid "Controls the size of the breadcrumb text."
+msgstr ""
+
+#: inc/admin/option-framework.php:1384
+msgid "Controls the submenu hover color(default: #333)."
+msgstr ""
+
+#: inc/admin/option-framework.php:1478
+msgid "Controls the submenu width"
+msgstr ""
+
+#: inc/admin/option-framework.php:2757
+msgid ""
+"Controls the subtitle text that displays in the page title area of the "
+"assigned blog page. This option only works if your front page displays your "
+"latest post in \"settings > reading\" or blog archive pages."
+msgstr ""
+
+#: inc/admin/option-framework.php:1822
+msgid "Controls the text alignment settings of the page title"
+msgstr ""
+
+#: inc/admin/option-framework.php:2743
+msgid ""
+"Controls the title text that displays in the page title area of the assigned "
+"blog page. This option only works if your front page displays your latest "
+"post in \"settings > reading\" or blog archive pages."
+msgstr ""
+
+#: inc/admin/option-framework.php:503
+msgid ""
+"Controls the top /bottom padding for page content. Enter values including "
+"any valid CSS unit, ex: 80px,80px."
+msgstr ""
+
+#: inc/admin/option-framework.php:3039
+msgid ""
+"Controls the top and bottom padding for the footer. Enter values excluding "
+"any valid CSS unit, ex: 50, 0,"
+msgstr ""
+
+#: inc/admin/option-framework.php:2681
+msgid "Controls the top and bottom padding of the blog page"
+msgstr ""
+
+#: inc/admin/option-framework.php:3309
+msgid ""
+"Controls the top and bottom padding of the copyright area. Enter values "
+"excluding any valid CSS unit, ex: 20, 20,"
+msgstr ""
+
+#: inc/admin/option-framework.php:1270
+msgid "Controls the top and bottom padding of the main menu"
+msgstr ""
+
+#: inc/admin/option-framework.php:2863
+msgid "Controls the top and bottom padding of the single blog page"
+msgstr ""
+
+#: inc/admin/option-framework.php:2303
+msgid "Controls the typography for all body font settings."
+msgstr ""
+
+#: inc/admin/option-framework.php:691
+msgid "Controls the width of the header area. "
+msgstr ""
+
+#: inc/admin/option-framework.php:2015
+msgid "Controls what displays in the breadcrumb area."
+msgstr ""
+
+#: inc/global-functions.php:233 inc/admin/option-framework.php:3269
+#: inc/footer/copyright.php:32
+msgid "Copyright"
+msgstr ""
+
+#: inc/admin/option-framework.php:3205
+msgid "Copyright Area"
+msgstr ""
+
+#: inc/admin/option-framework.php:3371
+msgid "Copyright Content"
+msgstr ""
+
+#: inc/admin/option-framework.php:3189
+msgid "Copyright Setting"
+msgstr ""
+
+#: functions.php:382
+msgid "Create Menu"
+msgstr ""
+
+#: functions.php:117
+msgid "Dark Brown"
+msgstr ""
+
+#: functions.php:82
+msgid "Dark Gray"
+msgstr ""
+
+#: functions.php:127
+msgid "Dark Red"
+msgstr ""
+
+#: inc/metabox/metabox.php:102
+msgid "Default"
+msgstr ""
+
+#: inc/metabox/metabox.php:19
+msgid "Designation"
+msgstr ""
+
+#. Author of the theme
+msgid "Devitems-club"
+msgstr ""
+
+#: inc/admin/option-framework.php:1596
+msgid "Display Mobile Menu at"
+msgstr ""
+
+#: inc/admin/option-framework.php:253
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/option-framework.php:1326
+msgid "Dropdown menu"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:31
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/admin/option-framework.php:968
+msgid "Email Address For Contact Info"
+msgstr ""
+
+#: inc/comment-form.php:17
+msgid "Email*"
+msgstr ""
+
+#: inc/admin/option-framework.php:1630
+msgid "Enable / Disable Logo"
+msgstr ""
+
+#: inc/admin/option-framework.php:3263
+msgid ""
+"Enable and disable footer copyright area content just by dragging and "
+"dropping."
+msgstr ""
+
+#: inc/metabox/metabox.php:109
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/admin/option-framework.php:2199
+msgid "Enter social links to show the icons"
+msgstr ""
+
+#: inc/admin/option-framework.php:3373
+msgid "Enter your copyright content here. HTML tags allowed: a, br, em, strong"
+msgstr ""
+
+#: inc/admin/option-framework.php:1676
+msgid "Enter your site title here"
+msgstr ""
+
+#: inc/includefile/breadcrumb.php:57
+msgid "Error 404"
+msgstr ""
+
+#: inc/admin/option-framework.php:2627
+msgid "Excerpt Length On Blog Page"
+msgstr ""
+
+#: inc/admin/option-framework.php:277
+msgid "Extensions"
+msgstr ""
+
+#: inc/admin/option-framework.php:3703
+msgid "Extra"
+msgstr ""
+
+#: inc/metabox/metabox.php:24
+msgid "Facebook Profile"
+msgstr ""
+
+#: inc/admin/option-framework.php:2965
+msgid "Footer Area Background Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:3129
+msgid "Footer Body Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:3357
+msgid "Footer Copyright Background Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:3261
+msgid "Footer Copyright Content"
+msgstr ""
+
+#: inc/admin/option-framework.php:3425
+msgid "Footer Copyright Link Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:3439
+msgid "Footer Copyright Link Hover Color"
+msgstr ""
+
+#: functions.php:53
+msgid "Footer Copyright Menu"
+msgstr ""
+
+#: inc/admin/option-framework.php:3307
+msgid "Footer Copyright Padding"
+msgstr ""
+
+#: inc/admin/option-framework.php:3219
+msgid "Footer Copyright Style"
+msgstr ""
+
+#: inc/admin/option-framework.php:3393
+msgid "Footer Copyright Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:3161
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:3175
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:3037
+msgid "Footer Padding"
+msgstr ""
+
+#: inc/admin/option-framework.php:2907
+msgid "Footer setting"
+msgstr ""
+
+#: inc/admin/option-framework.php:3079
+msgid "Footer Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:2949
+msgid "Four Column"
+msgstr ""
+
+#. Name of the template
+#: inc/admin/option-framework.php:433
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin/option-framework.php:3023
+msgid "Full Width Footer"
+msgstr ""
+
+#: inc/admin/option-framework.php:3293
+msgid "Full width Footer"
+msgstr ""
+
+#: inc/admin/option-framework.php:689
+msgid "Full Width Header"
+msgstr ""
+
+#: inc/admin/option-framework.php:1844
+msgid "Full Width Page Title"
+msgstr ""
+
+#: inc/admin/option-framework.php:1038
+msgid "Full Width Top Bar"
+msgstr ""
+
+#: 404.php:46
+msgid "Go back to Home Page"
+msgstr ""
+
+#: inc/admin/option-framework.php:3581
+msgid "Go back to home page"
+msgstr ""
+
+#: inc/metabox/metabox.php:42
+msgid "Google Plus Profile"
+msgstr ""
+
+#: inc/admin/option-framework.php:563
+msgid "Header"
+msgstr ""
+
+#: inc/admin/option-framework.php:590
+msgid "Header Background color"
+msgstr ""
+
+#: inc/admin/option-framework.php:816
+msgid "Header Contact Email Address"
+msgstr ""
+
+#: inc/admin/option-framework.php:800 inc/admin/option-framework.php:952
+msgid "Header Contact Number"
+msgstr ""
+
+#: inc/admin/option-framework.php:784 inc/admin/option-framework.php:936
+msgid "Header Contact Text"
+msgstr ""
+
+#: inc/admin/option-framework.php:832 inc/admin/option-framework.php:984
+msgid "Header Default Text"
+msgstr ""
+
+#: inc/admin/option-framework.php:616
+msgid "Header Layout One"
+msgstr ""
+
+#: inc/admin/option-framework.php:632
+msgid "Header Layout Three"
+msgstr ""
+
+#: inc/admin/option-framework.php:624
+msgid "Header Layout Two"
+msgstr ""
+
+#: functions.php:51
+msgid "Header Menu Left"
+msgstr ""
+
+#: functions.php:52
+msgid "Header Menu Right"
+msgstr ""
+
+#: inc/admin/option-framework.php:640
+msgid "Header One Page"
+msgstr ""
+
+#: inc/admin/option-framework.php:2369
+msgid "Heading H1 Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:2405
+msgid "Heading H2 Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:2441
+msgid "Heading H3 Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:2477
+msgid "Heading H4 Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:2513
+msgid "Heading H5 Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:2549
+msgid "Heading H6 Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:2353
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:1756
+msgid "Hide"
+msgstr ""
+
+#: inc/includefile/breadcrumb.php:45
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.wphash.com/kidschool/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://devitems.com/"
+msgstr ""
+
+#: inc/admin/option-framework.php:3499
+msgid "Image"
+msgstr ""
+
+#: inc/admin/option-framework.php:3559
+msgid "Information"
+msgstr ""
+
+#: inc/admin/option-framework.php:3547
+msgid "Insert your page not found page subtitle."
+msgstr ""
+
+#: inc/admin/option-framework.php:3517
+msgid "Insert your page not found page title ( 404 )"
+msgstr ""
+
+#: inc/metabox/metabox.php:184 inc/metabox/metabox.php:191
+msgid "inset padding ex-80"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:130
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:129
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:131
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/metabox/metabox.php:62
+msgid "Item {#}"
+msgstr ""
+
+#. Name of the theme
+msgid "Kidschool"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:62
+msgid "kidschool Core"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:85
+msgid "King Composer"
+msgstr ""
+
+#: inc/admin/option-framework.php:411
+msgid "Layout"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/comment-form.php:55
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/admin/option-framework.php:768 inc/admin/option-framework.php:888
+msgid "Leave Empty"
+msgstr ""
+
+#: inc/admin/option-framework.php:665 inc/admin/option-framework.php:2787
+msgid "Left"
+msgstr ""
+
+#: inc/admin/option-framework.php:1826
+msgid "left"
+msgstr ""
+
+#: inc/admin/option-framework.php:762
+msgid "Left Menu"
+msgstr ""
+
+#. Name of the template
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/admin/option-framework.php:671
+msgid "Left Top"
+msgstr ""
+
+#: functions.php:112
+msgid "Light Blue"
+msgstr ""
+
+#: functions.php:92
+msgid "Light Gray"
+msgstr ""
+
+#: inc/admin/option-framework.php:2321
+msgid "Link Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:2335
+msgid "Link Color Hover"
+msgstr ""
+
+#: inc/admin/option-framework.php:904
+msgid "Login Text"
+msgstr ""
+
+#: inc/admin/option-framework.php:882
+msgid "Login/Resigter"
+msgstr ""
+
+#: inc/admin/option-framework.php:1614 inc/admin/option-framework.php:1654
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/option-framework.php:659
+msgid "Logo Position"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Raleway, translate this to 'off'. Do not translate into your own language.
+#: functions.php:186
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/header/header-top-bar.php:67 inc/header/header-top-bar.php:148
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:95
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: inc/admin/option-framework.php:1306
+msgid "Main Menu Item Spacing"
+msgstr ""
+
+#: inc/admin/option-framework.php:1268
+msgid "Main Menu Padding"
+msgstr ""
+
+#: functions.php:122
+msgid "Medium Brown"
+msgstr ""
+
+#: functions.php:87
+msgid "Medium Gray"
+msgstr ""
+
+#: inc/admin/option-framework.php:1174 inc/admin/option-framework.php:3277
+msgid "Menu"
+msgstr ""
+
+#: inc/admin/option-framework.php:1214
+msgid "Menu Font Settings"
+msgstr ""
+
+#: inc/admin/option-framework.php:1250
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:1196
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/admin/option-framework.php:1578
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/comment-form.php:15
+msgid "Name*"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/metabox/metabox.php:115
+msgid "No"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:196
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: template-parts/content-single.php:50
+msgid "NO Comment"
+msgstr ""
+
+#: inc/admin/option-framework.php:2019
+msgid "None"
+msgstr ""
+
+#: 404.php:25
+msgid "Not found"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/admin/option-framework.php:2933
+msgid "Number of Footer Columns"
+msgstr ""
+
+#: comments.php:35 comments.php:55
+msgid "Older Comments"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:100
+msgid "One Click Demo"
+msgstr ""
+
+#: inc/admin/option-framework.php:2943
+msgid "One Column"
+msgstr ""
+
+#: inc/metabox/metabox.php:103
+msgid "One page"
+msgstr ""
+
+#: functions.php:48
+msgid "One Page Menu"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:181
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/admin/option-framework.php:1950 inc/admin/option-framework.php:2981
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:1967 inc/admin/option-framework.php:2997
+#: inc/metabox/metabox.php:147
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/admin/option-framework.php:1971 inc/admin/option-framework.php:3001
+msgid "Overlay opacity. Min: 0, max: 1, step: .1, default value: .8"
+msgstr ""
+
+#: template-parts/blog-layout.php:61 inc/includefile/breadcrumb.php:271
+msgid "Page"
+msgstr ""
+
+#: inc/admin/option-framework.php:501
+msgid "Page Content Padding"
+msgstr ""
+
+#: 404.php:36 inc/admin/option-framework.php:3549
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: inc/metabox/metabox.php:196
+msgid "Page Padding"
+msgstr ""
+
+#: inc/metabox/metabox.php:198
+msgid "Page padding"
+msgstr ""
+
+#: inc/metabox/metabox.php:89
+msgid "Page Settings"
+msgstr ""
+
+#: inc/admin/option-framework.php:1732
+msgid "Page Title"
+msgstr ""
+
+#: inc/admin/option-framework.php:2601
+msgid "Page Title Area"
+msgstr ""
+
+#: inc/admin/option-framework.php:1858
+msgid "Page Title Area Padding"
+msgstr ""
+
+#: inc/admin/option-framework.php:1892
+msgid "Page Title Area Padding on Mobile"
+msgstr ""
+
+#: inc/metabox/metabox.php:168
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:1784
+msgid "Page Title Font Settings"
+msgstr ""
+
+#: inc/metabox/metabox.php:175
+msgid "Page Title Font Size"
+msgstr ""
+
+#: inc/admin/option-framework.php:1820
+msgid "Page Title Text Alignment"
+msgstr ""
+
+#: template-parts/blog-layout.php:57 template-parts/content-page.php:19
+#: template-parts/content-single.php:39
+msgid "Pages:"
+msgstr ""
+
+#: inc/admin/option-framework.php:3747
+msgid "Pagination Hover & Active Background Color"
+msgstr ""
+
+#: inc/metabox/metabox.php:36
+msgid "Pinterest Profile"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:199
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:194
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:197
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/metabox/metabox.php:161
+msgid "Position center"
+msgstr ""
+
+#: inc/metabox/metabox.php:160
+msgid "Position left"
+msgstr ""
+
+#: inc/metabox/metabox.php:162
+msgid "Position right"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/comment-form.php:49
+msgid "post comment"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/includefile/breadcrumb.php:53
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: inc/global-functions.php:63 inc/admin/option-framework.php:2617
+msgid "Read more"
+msgstr ""
+
+#: inc/admin/option-framework.php:2615
+msgid "Read More Text"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:80
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/admin/option-framework.php:920
+msgid "Registration text"
+msgstr ""
+
+#: inc/metabox/metabox.php:64
+msgid "Remove Item"
+msgstr ""
+
+#: inc/metabox/metabox.php:60
+msgid "Repeatable Items after class title"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:193
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/admin/option-framework.php:669 inc/admin/option-framework.php:2791
+msgid "Right"
+msgstr ""
+
+#: inc/admin/option-framework.php:1830
+msgid "right"
+msgstr ""
+
+#: inc/admin/option-framework.php:880
+msgid "Right Menu"
+msgstr ""
+
+#. Name of the template
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/admin/option-framework.php:675
+msgid "Right Top"
+msgstr ""
+
+#. Description of the theme
+msgid "School WordPress Theme For Kids"
+msgstr ""
+
+#: inc/admin/option-framework.php:3733
+msgid "Scroll To Top Button Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:3719
+msgid "Scroll To Top Enable/Disable"
+msgstr ""
+
+#: searchform.php:14 inc/header/header-2.php:54
+#: inc/includefile/pagetitle.php:81
+msgid "Search"
+msgstr ""
+
+#: inc/admin/option-framework.php:2023
+msgid "Search Box"
+msgstr ""
+
+#: inc/includefile/breadcrumb.php:51
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/admin/option-framework.php:2653
+msgid "Select blog page style"
+msgstr ""
+
+#: inc/admin/option-framework.php:606
+msgid "Select Header Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:97
+msgid "Select Menu Style"
+msgstr ""
+
+#: inc/metabox/metabox.php:159
+msgid "Select position"
+msgstr ""
+
+#: inc/admin/option-framework.php:2937
+msgid "Select the number of columns"
+msgstr ""
+
+#: inc/admin/option-framework.php:2055
+msgid "Set the breadcrumb separator here"
+msgstr ""
+
+#: inc/admin/option-framework.php:1754
+msgid "Show"
+msgstr ""
+
+#: inc/admin/option-framework.php:2013
+msgid "Show Breadcrumb Content"
+msgstr ""
+
+#: inc/admin/option-framework.php:2921
+msgid "Show Footer Widgets Area"
+msgstr ""
+
+#: inc/admin/option-framework.php:1748
+msgid "Show or Hide the page title area from here"
+msgstr ""
+
+#: inc/admin/option-framework.php:1772
+msgid "Show or Hide the page title from here"
+msgstr ""
+
+#: inc/admin/option-framework.php:1770
+msgid "Show Page Title"
+msgstr ""
+
+#: inc/admin/option-framework.php:1746
+msgid "Show Page Title Area"
+msgstr ""
+
+#: inc/admin/option-framework.php:2161
+msgid "Show Post Categories on Breadcrumb"
+msgstr ""
+
+#: inc/widget-register.php:12
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/option-framework.php:2837
+msgid "Single Blog Style"
+msgstr ""
+
+#: inc/admin/option-framework.php:2657
+msgid "Single Column"
+msgstr ""
+
+#: inc/admin/option-framework.php:2843
+msgid "Single Full Width"
+msgstr ""
+
+#: inc/admin/option-framework.php:2845
+msgid "Single Left Sidebar"
+msgstr ""
+
+#: inc/admin/option-framework.php:2847
+msgid "Single Right sidebar"
+msgstr ""
+
+#: inc/admin/option-framework.php:1674
+msgid "Site Title"
+msgstr ""
+
+#: inc/admin/option-framework.php:1688
+msgid "Site Title Font Settings"
+msgstr ""
+
+#: inc/admin/option-framework.php:451
+msgid "Site Width"
+msgstr ""
+
+#: inc/admin/option-framework.php:465
+msgid "Site Width For Box Layout"
+msgstr ""
+
+#: inc/admin/option-framework.php:760 inc/admin/option-framework.php:878
+#: inc/admin/option-framework.php:2183
+msgid "Social Icon"
+msgstr ""
+
+#: inc/admin/option-framework.php:3271
+msgid "Social icon"
+msgstr ""
+
+#: inc/admin/option-framework.php:2197
+msgid "Social Icons"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:132
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:173
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:143
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:158
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/option-framework.php:703
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/admin/option-framework.php:1554
+msgid "Sticky Header Background color"
+msgstr ""
+
+#: inc/admin/option-framework.php:1526
+msgid "Sticky Header Menu Text Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:1506
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/admin/option-framework.php:3227
+msgid "Style One"
+msgstr ""
+
+#: inc/admin/option-framework.php:3243
+msgid "Style Three"
+msgstr ""
+
+#: inc/admin/option-framework.php:3235
+msgid "Style Two"
+msgstr ""
+
+#: inc/admin/option-framework.php:3545
+msgid "Sub Title"
+msgstr ""
+
+#: inc/admin/option-framework.php:1400
+msgid "Submenu Background"
+msgstr ""
+
+#: inc/admin/option-framework.php:1344
+msgid "Submenu Font Settings"
+msgstr ""
+
+#: inc/admin/option-framework.php:1424
+msgid "Submenu Hover Background."
+msgstr ""
+
+#: inc/admin/option-framework.php:1382
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:1488
+msgid "Submenu Item Height"
+msgstr ""
+
+#: inc/admin/option-framework.php:1446
+msgid "Submenu Separator Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:1476
+msgid "Submenu Width"
+msgstr ""
+
+#: inc/admin/option-framework.php:265
+msgid "Support"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:90
+msgid "The Events Calendar"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:148
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:195
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:168
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:163
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 404.php:42 inc/admin/option-framework.php:3561
+msgid "The page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: inc/admin/option-framework.php:371
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/admin/option-framework.php:381
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/admin/option-framework.php:427
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/admin/option-framework.php:67 inc/admin/option-framework.php:69
+msgid "Theme Options"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:153
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/option-framework.php:2389
+msgid "These settings control the typography for all H1 Headings."
+msgstr ""
+
+#: inc/admin/option-framework.php:2425
+msgid "These settings control the typography for all H2 Headings."
+msgstr ""
+
+#: inc/admin/option-framework.php:2461
+msgid "These settings control the typography for all H3 Headings."
+msgstr ""
+
+#: inc/admin/option-framework.php:2497
+msgid "These settings control the typography for all H4 Headings."
+msgstr ""
+
+#: inc/admin/option-framework.php:2533
+msgid "These settings control the typography for all H5 Headings."
+msgstr ""
+
+#: inc/admin/option-framework.php:2569
+msgid "These settings control the typography for all H6 Headings."
+msgstr ""
+
+#: inc/admin/option-framework.php:818
+msgid "This content will display header contact email address on top left bar"
+msgstr ""
+
+#: inc/admin/option-framework.php:786 inc/admin/option-framework.php:802
+msgid "This content will display header contact number on top left bar"
+msgstr ""
+
+#: inc/admin/option-framework.php:938 inc/admin/option-framework.php:954
+msgid "This content will display header contact number on top right bar."
+msgstr ""
+
+#: inc/admin/option-framework.php:906 inc/admin/option-framework.php:922
+msgid "This content will display header top-bar right"
+msgstr ""
+
+#: inc/admin/option-framework.php:970
+msgid "This content will display if you have \"Contact Info\" email."
+msgstr ""
+
+#: inc/admin/option-framework.php:834
+msgid "This content will display the default text on top left bar"
+msgstr ""
+
+#: inc/admin/option-framework.php:986
+msgid "This content will display the default text on top right bar"
+msgstr ""
+
+#: inc/admin/option-framework.php:395
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/admin/option-framework.php:373 inc/admin/option-framework.php:383
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:138
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:133
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/option-framework.php:2947
+msgid "Three Column"
+msgstr ""
+
+#: inc/admin/option-framework.php:3497 inc/admin/option-framework.php:3515
+msgid "Title"
+msgstr ""
+
+#: inc/admin/option-framework.php:3533
+msgid "Title or 404 Image"
+msgstr ""
+
+#: inc/admin/option-framework.php:1024
+msgid "Top Bar"
+msgstr ""
+
+#: inc/admin/option-framework.php:1064
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:738
+msgid "Top Bar left"
+msgstr ""
+
+#: inc/admin/option-framework.php:754
+msgid "Top Bar Left Content"
+msgstr ""
+
+#: inc/admin/option-framework.php:1102
+msgid "Top Bar Link Color "
+msgstr ""
+
+#: inc/admin/option-framework.php:1120
+msgid "Top Bar Link Hover Color"
+msgstr ""
+
+#: functions.php:49
+msgid "Top Bar Menu Left"
+msgstr ""
+
+#: functions.php:50
+msgid "Top Bar Menu Right"
+msgstr ""
+
+#: inc/admin/option-framework.php:1136
+msgid "Top Bar padding "
+msgstr ""
+
+#: inc/admin/option-framework.php:872
+msgid "Top Bar Right Content"
+msgstr ""
+
+#: inc/admin/option-framework.php:1084
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: inc/admin/option-framework.php:856
+msgid "Top Right Bar"
+msgstr ""
+
+#: inc/admin/option-framework.php:1008
+msgid "Topbar Customize"
+msgstr ""
+
+#: inc/admin/option-framework.php:718
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/admin/option-framework.php:1040
+msgid "Turn on if you want the top bar to be of full width."
+msgstr ""
+
+#: inc/admin/option-framework.php:1026
+msgid "Turn on if you want to show the top bar area."
+msgstr ""
+
+#: inc/admin/option-framework.php:705
+msgid "Turn on to activate the sticky header."
+msgstr ""
+
+#: inc/admin/option-framework.php:2039
+msgid "Turn on to display breadcrumb on mobile devices."
+msgstr ""
+
+#: inc/admin/option-framework.php:2923
+msgid "Turn on to display footer widgets area"
+msgstr ""
+
+#: inc/admin/option-framework.php:3207
+msgid "Turn on to display the copyright area."
+msgstr ""
+
+#: inc/admin/option-framework.php:2163
+msgid "Turn on to display the post categories in the breadcrumb path."
+msgstr ""
+
+#: inc/admin/option-framework.php:1846
+msgid ""
+"Turn on to have the page title area display at 100% width according to the "
+"window size. Turn off to follow site width."
+msgstr ""
+
+#: inc/admin/option-framework.php:3295
+msgid "Turn on to make full width copyright area"
+msgstr ""
+
+#: inc/admin/option-framework.php:3025
+msgid "Turn on to make the footer area full width"
+msgstr ""
+
+#: inc/admin/option-framework.php:720
+msgid "Turn on to make the header area transparent."
+msgstr ""
+
+#: inc/admin/option-framework.php:2603
+msgid ""
+"Turn on to show the page title area for the assigned blog page in \"settings "
+"> reading\" or blog archive pages."
+msgstr ""
+
+#: inc/admin/option-framework.php:3721
+msgid "Turn on/off the scroll to top button"
+msgstr ""
+
+#: inc/metabox/metabox.php:30
+msgid "Twitter Profile"
+msgstr ""
+
+#: inc/admin/option-framework.php:2945
+msgid "Two Column"
+msgstr ""
+
+#: inc/admin/option-framework.php:2271
+msgid "Typography"
+msgstr ""
+
+#: inc/metabox/metabox.php:129
+msgid "Upload Breadcrumb Image"
+msgstr ""
+
+#: inc/metabox/metabox.php:131
+msgid "upload image here"
+msgstr ""
+
+#: inc/admin/option-framework.php:3535
+msgid "Upload your 404 image."
+msgstr ""
+
+#: inc/admin/option-framework.php:1656
+msgid "Upload your logo here"
+msgstr ""
+
+#: inc/comment-form.php:19
+msgid "Website"
+msgstr ""
+
+#: functions.php:97
+msgid "White"
+msgstr ""
+
+#: inc/admin/option-framework.php:3095
+msgid "Widget Title Typography"
+msgstr ""
+
+#: functions.php:137
+msgid "Yellow"
+msgstr ""
+
+#: inc/metabox/metabox.php:114
+msgid "Yes"
+msgstr ""
